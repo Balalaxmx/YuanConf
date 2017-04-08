@@ -1,0 +1,50 @@
+!!$HOME/.Xresources
+URxvt.preeditType:Root
+!!Input Method
+!!URxvt.inputMethod:fcitx
+!!Color Depth
+URxvt.depth:32
+!!Colors
+URxvt.inheritPixmap:true
+URxvt.background:#000000
+URxvt.foreground:#FFFFFF
+URxvt.colorBD:#FFFFFF
+URxvt.colorUL:#00FF00
+URxvt.color0:#000000
+URxvt.color1:#CC0000
+URxvt.color2:#4E9A06
+URxvt.color3:#C4A000
+URxvt.color4:#3465A4
+URxvt.color5:#75507B
+URxvt.color6:#06989A
+URxvt.color7:#D3D7CF
+URxvt.color8:#555753
+URxvt.color9:#EF2929
+URxvt.color10:#8AE234
+URxvt.color11:#FCE94F
+URxvt.color12:#729FCF
+URxvt.color13:#AD7FA8
+URxvt.color14:#34E2E2
+URxvt.color15:#EEEEEC
+!!URL Operations
+URxvt.urlLauncher:chromium
+URxvt.matcher.button:1
+Urxvt.perl-ext-common:matcher
+!!Scollbar
+URxvt.scrollBar:False
+URxvt.scrollBar_floating:False
+URxvt.scrollstyle:plain
+!!ScollScreen
+URxvt.mouseWheelScrollPage:True
+URxvt.scrollTtyOutput:False
+URxvt.scrollWithBuffer:True
+URxvt.scrollTtyKeypress:True
+!!Cursor
+URxvt.cursorBlink:True
+URxvt.saveLines:3000
+!!Border
+URxvt.borderLess:False
+!!Fonts
+Xft.dpi:96
+URxvt.font:xft:DejaVu Sans Mono:antialias=True:pixelsize=16,xft:WenQuanYi Micro Hei Mono:style=Regular:pixelsize=16
+URxvt.boldfont:xft:DejaVu Sans Mono Bold:antialias=True:pixelsize=16,xft:WenQuanYi Micro Hei Mono:style=Bold:pixelsize=16
