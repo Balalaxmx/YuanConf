@@ -1,0 +1,4 @@
+##
+## Arch Linux repository mirrorlist
+Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+#Server = https://mirrors.cqu.edu.cn/archlinux/$repo/os/$arch
