@@ -7,7 +7,7 @@ This is simply Awesome WM and rxvt-unicode configuration.
 
 **My GNU nano configuration is in [NANORC](https://github.com/YuanPre/nanorc.git).**
   
-The `mirrorlist` is Arch Linux repository mirrorlist.But it is only useful in China.  
+The `mirrorlist` is Arch Linux repository mirrorlist,but it is only useful in China.  
 
 # INSTALL and USING
 **This configuration need awesomewm>=v4, rxvt-unicode  and DejaVu fonts.**  
@@ -17,7 +17,7 @@ To install ,Follow these steps:
 ```
 git clone https://github.com/YuanPre/myconfig.git ~/myconfig
 ```  
-* Copy files you need (like `cp ~/myconfig/.Xresources ~/`).
+* Copy files you need (like `cp ~/myconfig/.Xresources ~/`).if you want to use my all configuration,run `cp -r ~/myconfig/* ~/`
 
 # Issues and Bug
 Please open issues to report bug,I don't accept any other way.
