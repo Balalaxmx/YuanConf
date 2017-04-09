@@ -17,7 +17,7 @@ To install ,Follow these steps:
 ```
 git clone https://github.com/YuanPre/myconfig.git ~/myconfig
 ```  
-* Copy files you need.(like `cp ~/myconfig/.Xresources ~/`)
+* Copy files you need (like `cp ~/myconfig/.Xresources ~/`).
 
 # Issues and Bug
 Please open issues to report bug,I don't accept any other way.
