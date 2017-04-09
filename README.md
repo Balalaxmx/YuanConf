@@ -1,10 +1,12 @@
 # WARRING
-**This is my personal configuration,**
-only for my personal use of the environment to optimize, if any use, please select the file.**
+This is my configuration.  
+
+**only for my personal use of the environment to optimize, if any use, please select the file.**
 
 This is simply Awesome WM and rxvt-unicode configuration.
 
-**My GNU nano configuration is in [nanorc](https://github.com/YuanPre/nanorc.git).***  
+**My GNU nano configuration is in [nanorc](https://github.com/YuanPre/nanorc.git).**
+  
 The `mirrorlist` is Arch Linux repository mirrorlist.But it mirrorlist is only useful in China.  
 
 # INSTALL and USING
