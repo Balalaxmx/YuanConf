@@ -104,10 +104,10 @@ myawesomemenu = {
    { "quit", function() awesome.quit() end}
 }
 
-mymainmenu = awful.menu({ items = { { "awesome", myawesomemenu, beautiful.awesome_icon },
-                             {"Emacs", editor },
+mymainmenu = awful.menu({ items = { {"Emacs", editor },
                              {"Firefox", "firefox" },
-                             { "Terminal", terminal }
+                             { "Terminal", terminal },
+                             { "awesome", myawesomemenu, beautiful.awesome_icon }
 }
                        })
 
