@@ -2,7 +2,7 @@
 **This is my personal configuration,**
 only for my personal use of the environment to optimize, if any use, please select the file.**
 
-This is simply awesomewm and rxvt-unicode configuration.
+This is simply awesomewm, nano and rxvt-unicode configuration.
 
 # INSTALL and USING
 **This configuration need awesomewm>=v4, rxvt-unicode  and DejaVu fonts.**
