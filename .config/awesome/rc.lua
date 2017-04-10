@@ -40,8 +40,8 @@ end
 
 -- {{{ Variable definitions
 -- Themes define colours, icons, font and wallpapers.
-beautiful.init(awful.util.getdir("config") .. "/themes/default/theme.lua")
-beautiful.init("~/.config/awesome/themes/default/theme.lua")
+beautiful.init(awful.util.getdir("config") .. "/theme/Pink/theme.lua")
+beautiful.init("~/.config/awesome/theme/Pink/theme.lua")
 for s = 1, screen.count() do
    gears.wallpaper.maximized(beautiful.wallpaper, s, true)
 end
