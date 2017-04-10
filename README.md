@@ -28,7 +28,7 @@ The \`mirrorlist\` is Arch Linux repository mirrorlist,but it is only useful in 
 To install ,Follow these steps:
 -   Run this command in your shell:
 
-    git clone https://github.com/YuanPre/myconfig.git ~/myconfig
+    `git clone https://github.com/YuanPre/myconfig.git ~/myconfig`
 
 -   Copy files you need (like `cp ~/myconfig/.Xresources ~/`).if you want to use my all configuration,run `cp -r ~/myconfig/* ~/`.
 
