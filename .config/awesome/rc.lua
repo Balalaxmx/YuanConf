@@ -41,13 +41,13 @@ end
 -- {{{ Variable definitions
 -- Themes define colours, icons, font and wallpapers.
 beautiful.init(awful.util.getdir("config") .. "/theme/Pink/theme.lua")
-beautiful.init("~/.config/awesome/theme/Pink/theme.lua")
+beautiful.init(awfuo.util.getdir("config") .. "/theme/Pink/theme.lua")
 for s = 1, screen.count() do
    gears.wallpaper.maximized(beautiful.wallpaper, s, true)
 end
 
 -- This is used later as the default terminal and editor to run.
-terminal = "urxvt -sh 64"
+terminal = "urxvt -sh 32"
 editor = "emacs"
 editor_cmd = terminal .. " -e " .. editor
 
@@ -104,10 +104,10 @@ myawesomemenu = {
    { "quit", function() awesome.quit() end}
 }
 
-mymainmenu = awful.menu({ items = { {"Emacs", editor },
+mymainmenu = awful.menu({ items = {{ "awesome", myawesomemenu, beautiful.awesome_icon },
+                             {"Emacs", editor },
                              {"Firefox", "firefox" },
-                             { "Terminal", terminal },
-                             { "awesome", myawesomemenu, beautiful.awesome_icon }
+                             { "Terminal", terminal }
 }
                        })
 
