@@ -17,7 +17,7 @@ This is my Awesome wm and rxvt-unicode configuraton.
 It used my Pink theme and Arch Linux wallpaper.
 Editor is emacs, web browser is firefox, others remain the default.
 
-And my GNU nano editor configuration is in [[https://github.com/YuanPre/nanorc.git][NANORC]], Welcome to use and correction.
+And my GNU nano editor configuration is in [[https://github.com/YuanPre/nanorc.git][YuanPre/nanorc]], Welcome to use and correction.
 
 * Installation
 To install, please make sure you have the above software and =git=,then run command in your shell:
