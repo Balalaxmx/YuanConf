@@ -6,7 +6,7 @@ local theme_assets = require("beautiful.theme_assets")
 local xresources = require("beautiful.xresources")
 local dpi = xresources.apply_dpi
 local gfs = require("gears.filesystem")
-local themes_path = gfs.get_dir("config").."theme/"
+local themes_path = gfs.get_dir("config") .. "them/"
 local theme = {}
 
 theme.font          = "DejaVu Sans Mono 8"
