@@ -1,5 +1,5 @@
 --------------------------------
---  TLMF Pink awesome theme   --
+--  TLMF Pink Awesome theme   --
 --------------------------------
 
 local theme_assets = require("beautiful.theme_assets")
