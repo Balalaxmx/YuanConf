@@ -12,7 +12,7 @@ grml-zsh-config
 git
 #+END_SRC
 * First Startup
-** Tools
+** System Tools
 #+BEGIN_SRC
 gcc
 gdb
