@@ -14,8 +14,6 @@ The =mirrorlist= is a list of arch linux repository, but it's only useful in Chi
 
 This is my Awesome wm and rxvt-unicode configuraton.
 
-The =.zshrc= is [[http://grml.org/zsh/][grml-zsh-config]] 's zshrc Thank author.
-
 It used my Pink theme and Arch Linux wallpaper.
 Editor is emacs, web browser is firefox, others remain the default.
 
