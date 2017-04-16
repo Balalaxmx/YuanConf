@@ -82,7 +82,6 @@ virtualbox-guest-utils
 ** Editor
 #+BEGIN_SRC
 emacs
-atom (O)
 #+END_SRC
 ** Decoder
 #+BEGIN_SRC
