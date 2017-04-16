@@ -39,6 +39,8 @@ nodejs
 npm
 linux-headers
 dkms
+openssh
+openssl
 #+END_SRC
 
 ** Xorg and GUI Library
