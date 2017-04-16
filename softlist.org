@@ -1,7 +1,10 @@
-* Before First-Restart
+* On Install
 #+BEGIN_SRC
 base
 base-devel
+#+END_SRC
+* Before First Startup
+#+BEGIN_SRC
 zsh
 zsh-completions
 zsh-lovers
