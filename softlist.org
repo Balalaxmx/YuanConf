@@ -115,8 +115,9 @@ gvfs
 gvfs-nfs
 xclip
 #+END_SRC
-** Others (OPTICAL)
+** Others (OPTIONAL)
 #+BEGIN_SRC
+gtk-engines
 atom
 vicious
 archlinux-wallpaper
