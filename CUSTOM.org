@@ -1,1 +1,5 @@
 * Awesome WM
+** rc.lua
++ theme path: Change =line 43: beautiful.init(awful.util.getdir("config") .. "them/Pink/theme.lua")=.
++ Default term and editor: Change line 50~51: terminal = "urxvt -sh 64" editor = "emacs" .
++ Default layout: =line 64-78=: uncomment line to open more layout
