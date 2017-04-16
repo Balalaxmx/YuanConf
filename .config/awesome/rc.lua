@@ -68,10 +68,10 @@ awful.layout.layouts = {
    awful.layout.suit.tile.bottom,
    awful.layout.suit.tile.top,
    awful.layout.suit.floating,
-   -- awful.layout.suit.tile.left,
-   -- awful.layout.suit.magnifier,
    -- awful.layout.suit.spiral,
    -- awful.layout.suit.spiral.dwindle,
+   -- awful.layout.suit.magnifier,
+   -- awful.layout.suit.tile.left,
    -- awful.layout.suit.corner.nw,
    -- awful.layout.suit.corner.ne,
    -- awful.layout.suit.corner.sw,
@@ -98,7 +98,6 @@ end
 -- Create a launcher widget and a main menu
 myawesomemenu = {
    { "hotkeys", function() return false, hotkeys_popup.show_help end},
-   { "manual", terminal .. " -e man awesome" },
    { "edit config", editor_cmd .. " " .. awesome.conffile },
    { "restart", awesome.restart },
    { "quit", function() awesome.quit() end}
@@ -492,8 +491,8 @@ awful.rules.rules = {
    -- Set Firefox to always map on the tag named "2" on screen 1.
    { rule = { class = "Firefox" },
      properties = { screen = 1, tag = "Browser" } },
-   {rule = { class = "Emacs" },
-    properties = { screen = 1, tag = "Emacs" } }
+   { rule = { class = "Emacs" },
+     properties = { screen = 1, tag = "Emacs" } },
 }
 -- }}}
 
