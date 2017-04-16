@@ -51,6 +51,7 @@ xorg-server-utils
 xorg-utils
 xorg-server-xwayland
 xorg-xinit
+wayland
 gtk2
 gkt3
 webkitgtk
