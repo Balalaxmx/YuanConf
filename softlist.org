@@ -25,10 +25,8 @@ python
 python2
 ipython
 ipython2
-python2-pip
 python-pip
-python2-xdg
-python-xdg
+python2-pip
 php
 aspell
 perl
@@ -54,6 +52,8 @@ xorg-xinit
 wayland
 gtk2
 gkt3
+python-xdg
+python2-xdg
 webkitgtk
 gnome-themes-standard
 qt5-base
@@ -114,6 +114,8 @@ firefox-i18n-zh-tw
 gvfs
 gvfs-nfs
 xclip
+rxvt-unicode
+screenfetch
 #+END_SRC
 ** Others (OPTIONAL)
 #+BEGIN_SRC
