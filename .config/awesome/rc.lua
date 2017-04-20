@@ -11,7 +11,7 @@ local naughty = require("naughty")
 local menubar = require("menubar")
 local hotkeys_popup = require("awful.hotkeys_popup").widget
 -- Enable VIM help for hotkeys widget when client with matching name is opened:
-require("awful.hotkeys_popup.keys.vim")
+-- require("awful.hotkeys_popup.keys.vim")
 
 -- {{{ Error handling
 -- Check if awesome encountered an error during startup and fell back to
@@ -47,7 +47,7 @@ for s = 1, screen.count() do
 end
 
 -- This is used later as the default terminal and editor to run.
-terminal = "urxvt -sh 64"
+terminal = "urxvt -sh 32"
 editor = "emacs"
 editor_cmd = terminal .. " -e " .. editor
 
