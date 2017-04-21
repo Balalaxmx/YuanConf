@@ -1,3 +1,6 @@
 *.emacs
 *.emacs.d
 *.error
+*-error
+*.c
+*.sh
