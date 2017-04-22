@@ -1,2 +1,2 @@
-xset s 0 &
+xset s off &
 xset -dpms &
