@@ -40,7 +40,7 @@ dkms
 openssh
 openssl
 #+END_SRC
-
+** 
 ** Xorg and GUI Library
 #+BEGIN_SRC
 xorg-apps
@@ -79,10 +79,6 @@ virtualbox-guest-utils
 #+END_SRC
 
 * Apps
-** Editor
-#+BEGIN_SRC
-emacs
-#+END_SRC
 ** Decoder
 #+BEGIN_SRC
 gst-plugins-base
@@ -116,6 +112,10 @@ gvfs-nfs
 xclip
 rxvt-unicode
 screenfetch
+#+END_SRC
+** AUR
+#+BEGIN_SRC
+ttf-font-awesome
 #+END_SRC
 ** Others (OPTIONAL)
 #+BEGIN_SRC
