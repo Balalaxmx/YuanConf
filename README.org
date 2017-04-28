@@ -6,7 +6,7 @@ Arch Linux x86_64
 Awesome WM 4.0 and later
 rxvt-unicode 9.2 and later
 #+END_SRC
-*If the user and my software environment is different, please select and customize files before use.*
+*If your OS and software environment is different, please select and customize files before use.*
 
 The =mirrorlist= is a list of arch linux repository, but it's only useful in China.
 
