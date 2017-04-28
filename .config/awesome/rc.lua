@@ -47,7 +47,7 @@ for s = 1, screen.count() do
 end
 
 -- This is used later as the default terminal and editor to run.
-terminal = "urxvt -sh 16"
+terminal = "urxvt -sh 64"
 editor = "emacs"
 editor_cmd = terminal .. " -e " .. editor
 
