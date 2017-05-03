@@ -26,7 +26,7 @@ To install, please make sure you have the above software and =git=,then run comm
 git clone https://github.com/YuanPres/myconfig.git ~/myconfig
 #+END_SRC
 
-Then ,copy files you need in =~/myconfig= (like =cp ~/myconfig/.Xresources ~/=).
+Then, copy files you need in =~/myconfig= (like =cp ~/myconfig/.Xresources ~/=).
 
 If you want to use my *all* configuration, run =cp ~/myconfig/.* ~/= and =sudo cp ~/myconfig/mirrorlist /etc/pacman.d= .
 
