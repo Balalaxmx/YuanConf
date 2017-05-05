@@ -40,7 +40,7 @@ dkms
 openssh
 openssl
 #+END_SRC
-** 
+  
 ** Xorg and GUI Library
 #+BEGIN_SRC
 xorg-apps
