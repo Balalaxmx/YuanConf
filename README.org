@@ -32,7 +32,7 @@ Tips: The =~/= is HOME directory.
 
 * Usage
 
-+ Please see [[https://github.com/YuanPres/myconfig/blob/master/CUSTOM.org][CUSTOM.org]] for advice on customization.
++ Please see [[https://github.com/YuanPres/YuanConf/blob/master/CUSTOM.org][CUSTOM.org]] for advice on customization.
 
 + Nothing in your clone directory ? Run =ls -a= to view the file. Because they are hidden files.\\
   Normally the configuration files are hidden files (with file name before "." ).
