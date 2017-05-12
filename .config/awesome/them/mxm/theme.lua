@@ -59,7 +59,7 @@ theme.taglist_squares_unsel = theme_assets.taglist_squares_unsel(
 -- Variables set for theming the menu:
 -- menu_[bg|fg]_[normal|focus]
 -- menu_[border_color|border_width]
-theme.menu_submenu_icon = themes_path.."mx/submenu.png"
+theme.menu_submenu_icon = themes_path.."mxm/submenu.png"
 theme.menu_height = dpi(16)
 theme.menu_width  = dpi(128)
 
@@ -69,51 +69,51 @@ theme.menu_width  = dpi(128)
 --theme.bg_widget = "#cc0000"
 
 -- Define the image to load
-theme.titlebar_close_button_normal = themes_path.."mx/titlebar/close_normal.png"
-theme.titlebar_close_button_focus  = themes_path.."mx/titlebar/close_focus.png"
+theme.titlebar_close_button_normal = themes_path.."mxm/titlebar/close_normal.png"
+theme.titlebar_close_button_focus  = themes_path.."mxm/titlebar/close_focus.png"
 
-theme.titlebar_minimize_button_normal = themes_path.."mx/titlebar/minimize_normal.png"
-theme.titlebar_minimize_button_focus  = themes_path.."mx/titlebar/minimize_focus.png"
+theme.titlebar_minimize_button_normal = themes_path.."mxm/titlebar/minimize_normal.png"
+theme.titlebar_minimize_button_focus  = themes_path.."mxm/titlebar/minimize_focus.png"
 
-theme.titlebar_ontop_button_normal_inactive = themes_path.."mx/titlebar/ontop_normal_inactive.png"
-theme.titlebar_ontop_button_focus_inactive  = themes_path.."mx/titlebar/ontop_focus_inactive.png"
-theme.titlebar_ontop_button_normal_active = themes_path.."mx/titlebar/ontop_normal_active.png"
-theme.titlebar_ontop_button_focus_active  = themes_path.."mx/titlebar/ontop_focus_active.png"
+theme.titlebar_ontop_button_normal_inactive = themes_path.."mxm/titlebar/ontop_normal_inactive.png"
+theme.titlebar_ontop_button_focus_inactive  = themes_path.."mxm/titlebar/ontop_focus_inactive.png"
+theme.titlebar_ontop_button_normal_active = themes_path.."mxm/titlebar/ontop_normal_active.png"
+theme.titlebar_ontop_button_focus_active  = themes_path.."mxm/titlebar/ontop_focus_active.png"
 
-theme.titlebar_sticky_button_normal_inactive = themes_path.."mx/titlebar/sticky_normal_inactive.png"
-theme.titlebar_sticky_button_focus_inactive  = themes_path.."mx/titlebar/sticky_focus_inactive.png"
-theme.titlebar_sticky_button_normal_active = themes_path.."mx/titlebar/sticky_normal_active.png"
-theme.titlebar_sticky_button_focus_active  = themes_path.."mx/titlebar/sticky_focus_active.png"
+theme.titlebar_sticky_button_normal_inactive = themes_path.."mxm/titlebar/sticky_normal_inactive.png"
+theme.titlebar_sticky_button_focus_inactive  = themes_path.."mxm/titlebar/sticky_focus_inactive.png"
+theme.titlebar_sticky_button_normal_active = themes_path.."mxm/titlebar/sticky_normal_active.png"
+theme.titlebar_sticky_button_focus_active  = themes_path.."mxm/titlebar/sticky_focus_active.png"
 
-theme.titlebar_floating_button_normal_inactive = themes_path.."mx/titlebar/floating_normal_inactive.png"
-theme.titlebar_floating_button_focus_inactive  = themes_path.."mx/titlebar/floating_focus_inactive.png"
-theme.titlebar_floating_button_normal_active = themes_path.."mx/titlebar/floating_normal_active.png"
-theme.titlebar_floating_button_focus_active  = themes_path.."mx/titlebar/floating_focus_active.png"
+theme.titlebar_floating_button_normal_inactive = themes_path.."mxm/titlebar/floating_normal_inactive.png"
+theme.titlebar_floating_button_focus_inactive  = themes_path.."mxm/titlebar/floating_focus_inactive.png"
+theme.titlebar_floating_button_normal_active = themes_path.."mxm/titlebar/floating_normal_active.png"
+theme.titlebar_floating_button_focus_active  = themes_path.."mxm/titlebar/floating_focus_active.png"
 
-theme.titlebar_maximized_button_normal_inactive = themes_path.."mx/titlebar/maximized_normal_inactive.png"
-theme.titlebar_maximized_button_focus_inactive  = themes_path.."mx/titlebar/maximized_focus_inactive.png"
-theme.titlebar_maximized_button_normal_active = themes_path.."mx/titlebar/maximized_normal_active.png"
-theme.titlebar_maximized_button_focus_active  = themes_path.."mx/titlebar/maximized_focus_active.png"
+theme.titlebar_maximized_button_normal_inactive = themes_path.."mxm/titlebar/maximized_normal_inactive.png"
+theme.titlebar_maximized_button_focus_inactive  = themes_path.."mxm/titlebar/maximized_focus_inactive.png"
+theme.titlebar_maximized_button_normal_active = themes_path.."mxm/titlebar/maximized_normal_active.png"
+theme.titlebar_maximized_button_focus_active  = themes_path.."mxm/titlebar/maximized_focus_active.png"
 
-theme.wallpaper = themes_path.."mx/archlinux-ekisho-carbonite.jpg"
+theme.wallpaper = themes_path.."mxm/archlinux-ekisho-carbonite.jpg"
 
 -- You can use your own layout icons like this:
-theme.layout_fairh = themes_path.."mx/layouts/fairhw.png"
-theme.layout_fairv = themes_path.."mx/layouts/fairvw.png"
-theme.layout_floating  = themes_path.."mx/layouts/floatingw.png"
-theme.layout_magnifier = themes_path.."mx/layouts/magnifierw.png"
-theme.layout_max = themes_path.."mx/layouts/maxw.png"
-theme.layout_fullscreen = themes_path.."mx/layouts/fullscreenw.png"
-theme.layout_tilebottom = themes_path.."mx/layouts/tilebottomw.png"
-theme.layout_tileleft   = themes_path.."mx/layouts/tileleftw.png"
-theme.layout_tile = themes_path.."mx/layouts/tilew.png"
-theme.layout_tiletop = themes_path.."mx/layouts/tiletopw.png"
-theme.layout_spiral  = themes_path.."mx/layouts/spiralw.png"
-theme.layout_dwindle = themes_path.."mx/layouts/dwindlew.png"
-theme.layout_cornernw = themes_path.."mx/layouts/cornernww.png"
-theme.layout_cornerne = themes_path.."mx/layouts/cornernew.png"
-theme.layout_cornersw = themes_path.."mx/layouts/cornersww.png"
-theme.layout_cornerse = themes_path.."mx/layouts/cornersew.png"
+theme.layout_fairh = themes_path.."mxm/layouts/fairhw.png"
+theme.layout_fairv = themes_path.."mxm/layouts/fairvw.png"
+theme.layout_floating  = themes_path.."mxm/layouts/floatingw.png"
+theme.layout_magnifier = themes_path.."mxm/layouts/magnifierw.png"
+theme.layout_max = themes_path.."mxm/layouts/maxw.png"
+theme.layout_fullscreen = themes_path.."mxm/layouts/fullscreenw.png"
+theme.layout_tilebottom = themes_path.."mxm/layouts/tilebottomw.png"
+theme.layout_tileleft   = themes_path.."mxm/layouts/tileleftw.png"
+theme.layout_tile = themes_path.."mxm/layouts/tilew.png"
+theme.layout_tiletop = themes_path.."mxm/layouts/tiletopw.png"
+theme.layout_spiral  = themes_path.."mxm/layouts/spiralw.png"
+theme.layout_dwindle = themes_path.."mxm/layouts/dwindlew.png"
+theme.layout_cornernw = themes_path.."mxm/layouts/cornernww.png"
+theme.layout_cornerne = themes_path.."mxm/layouts/cornernew.png"
+theme.layout_cornersw = themes_path.."mxm/layouts/cornersww.png"
+theme.layout_cornerse = themes_path.."mxm/layouts/cornersew.png"
 
 -- Generate Awesome icon:
 theme.awesome_icon = theme_assets.awesome_icon(
