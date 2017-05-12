@@ -10,10 +10,12 @@ The =mirrorlist= is a list of archlinux software repository, but it's only usefu
   
 * Features
   
-This is my Awesome wm and URxvt configuraton.
+This is my Awesome WM and URxvt configuraton.
   
-It used my "=MX=" theme and archlinux wallpaper.  
-Default editor is emacs, web browser is firefox.  
+It used my "=MX=" theme and archlinux wallpaper.
+
+Default editor is emacs, web browser is firefox.
+
 All other items are kept in default.
   
 And my GNU nano editor configuration is in [[https://github.com/YuanPres/nanorc.git][YuanPres/nanorc]], Welcome to use and correction.
