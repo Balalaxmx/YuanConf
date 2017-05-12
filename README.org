@@ -13,7 +13,7 @@ The =mirrorlist= is a list of archlinux software repository, but it's only usefu
 This is my Awesome WM and URxvt configuraton.
   
   
-nIt used my "=MX=" theme and archlinux wallpaper.
+It used my "=MX=" theme and archlinux wallpaper.
 
 Default editor is emacs, web browser is firefox.
 
@@ -32,8 +32,9 @@ git clone https://github.com/YuanPres/YuanConf.git ~/yuan
 Then, copy files you need in =~/yuan= (like =cp ~/yuan/.Xresources ~/=).
 
 If you want to use my *all* configuration, run =cp ~/yuan/.* ~/= and =sudo cp ~/yuan/mirrorlist /etc/pacman.d/= .
-
-Tips: The =~/= is HOME directory.
+  
+  
+*Tips:* The =~/= is HOME directory.
 
 * Usage
 
