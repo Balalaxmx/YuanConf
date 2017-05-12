@@ -12,7 +12,7 @@ The =mirrorlist= is a list of archlinux software repository, but it's only usefu
   
 This is my Awesome wm and URxvt configuraton.
   
-It used my Pink theme and archlinux wallpaper.
+It used my "MX" theme and archlinux wallpaper.
 Default editor is emacs, web browser is firefox.
 All other items are kept in default
   
