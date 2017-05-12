@@ -5,12 +5,12 @@
 + Awesome WM 4.0 or later
 + URxvt 9.2 or later
 *If your OS and software environment is different, please select and customize files before use.*
-
+  
 The =mirrorlist= is a list of arch linux repository, but it's only useful in China.
-
+  
 * Features
 
-This is my Awesome wm and rxvt-unicode configuraton.
+This is my Awesome wm and URxvt configuraton.
 
 It used my Pink theme and Arch Linux wallpaper.
 Editor is emacs, web browser is firefox, others remain the default.
