@@ -1,25 +1,30 @@
 * On Install
+
 #+BEGIN_SRC
 base
 base-devel
 #+END_SRC
+
 * Before First Startup
+
 #+BEGIN_SRC
 zsh
 zsh-completions
 zsh-lovers
 grml-zsh-config
-git
 #+END_SRC
+
 * First Startup
+
 ** System Tools
+
 #+BEGIN_SRC
 gcc
 gdb
 autoconf
 automake
-clang
 cmake
+clang
 llvm
 python
 python2
@@ -40,20 +45,26 @@ dkms
 openssh
 openssl
 #+END_SRC
-  
-** Xorg and GUI Library
+
+** Audio Library
+
 #+BEGIN_SRC
-xorg-apps
+pulseaudio
+pulseaudio-alsa
+#+END_SRC
+
+** GUI Library
+
+#+BEGIN_SRC
 xorg-server
-xorg-server-utils
-xorg-utils
 xorg-server-xwayland
 xorg-xinit
+xorg-apps
 wayland
-gtk2
-gkt3
 python-xdg
 python2-xdg
+gtk2
+gtk3
 webkitgtk
 gnome-themes-standard
 qt5-base
@@ -62,65 +73,81 @@ qt5-3d
 #+END_SRC
 
 ** Fonts
+
 #+BEGIN_SRC
-wqy-zenhei
-wqy-microhei
-wqy-bitmapfont
 ttf-dejavu
 ttf-arphic-ukai
 ttf-arphic-uming
+wqy-zenhei
+wqy-microhei
+wqy-bitmapfont
 adobe-source-code-pro-fonts
 #+END_SRC
 
-** VBox modules
+** VirtualBox Modules
+
 #+BEGIN_SRC
 virtualbox-guest-modules-arch
 virtualbox-guest-utils
 #+END_SRC
 
-* Apps
-** Decoder
+* App
+
+** Editor
+
+#+BEGIN_SRC
+emacs
+#+END_SRC
+
+** Tools
+
 #+BEGIN_SRC
 gst-plugins-base
 gst-plugins-base-libs
-gst-plugins-ugly
 gst-plugins-bad
+gst-plugins-ugly
 gst-plugins-good
 gst-plugins-espeak
 ffmpeg
+gvfs
+gvfs-nfs
+rxvt-unicode
+xclip
+screenfetch
 #+END_SRC
 
-** Window Manager and Dispaly Manager
+** WM & DM
+
 #+BEGIN_SRC
+awesome
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
-awesome
 #+END_SRC
 
 ** Browser
+
 #+BEGIN_SRC
 firefox
 firefox-i18n-zh-cn
 firefox-i18n-zh-tw
 #+END_SRC
 
-** Tools
-#+BEGIN_SRC
-gvfs
-gvfs-nfs
-xclip
-rxvt-unicode
-screenfetch
-#+END_SRC
 ** AUR
+
 #+BEGIN_SRC
 ttf-font-awesome
 #+END_SRC
+
 ** Others (OPTIONAL)
+
 #+BEGIN_SRC
 gtk-engines
 atom
 vicious
 archlinux-wallpaper
+libreoffice
+gimp
+rhythmbox
+(To Be Continued)
 #+END_SRC
