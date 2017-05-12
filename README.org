@@ -2,9 +2,9 @@
 
 *This configuration is only designed for my environment:*
 #+BEGIN_SRC
-Arch Linux x86_64
-Awesome WM 4.0 or later
-rxvt-unicode 9.2 or later
+  Arch Linux x86_64
+  Awesome WM 4.0 or later
+  rxvt-unicode 9.2 or later
 #+END_SRC
 *If your OS and software environment is different, please select and customize files before use.*
 
@@ -26,7 +26,7 @@ To install, please make sure you have the above software and =git=,then run comm
 git clone https://github.com/YuanPres/YuanConf.git ~/yuan
 #+END_SRC
 
-Then, copy files you need in =~/myconfig= (like =cp ~/yuan/.Xresources ~/=).
+Then, copy files you need in =~/yuan= (like =cp ~/yuan/.Xresources ~/=).
 
 If you want to use my *all* configuration, run =cp ~/yuan/.* ~/= and =sudo cp ~/yuan/mirrorlist /etc/pacman.d= .
 
