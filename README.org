@@ -38,6 +38,6 @@ If you want to use my *all* configuration, run =cp ~/myconfig/.* ~/= and =sudo c
   Normally the configuration files are hidden files (with file name before "." ).
 
 * Issues and Bug
-Please open a Issues in this: [[https://github.com/YuanPres/myconfig/issues][myconfig/issues]]. I'm sorry, I *DO NOT* accept any other way.
+Please open a Issues in this: [[https://github.com/YuanPres/yuanconf/issues][yuanconf/issues]]. I'm sorry, I *DO NOT* accept any other way.
 
 *EOF*
