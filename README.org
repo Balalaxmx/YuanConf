@@ -1,18 +1,18 @@
 * WARRING
 
 *This configuration is only designed for my environment:*
-+ Arch Linux x86_64
++ archlinux x86_64
 + Awesome WM 4.0 or later
 + URxvt 9.2 or later
 *If your OS and applications environment are different, please select and customize files before use.*
   
-The =mirrorlist= is a list of arch linux repository, but it's only useful in China.
+The =mirrorlist= is a list of archlinux software repository, but it's only useful in China.
   
 * Features
   
 This is my Awesome wm and URxvt configuraton.
   
-It used my Pink theme and Arch Linux wallpaper.
+It used my Pink theme and archlinux wallpaper.
 Default editor is emacs, web browser is firefox.
 All other items are kept in default
   
