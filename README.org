@@ -38,6 +38,6 @@ Tips: The =~/= is HOME directory.
   Normally the configuration files are hidden files (with file name before "." ).
 
 * Issues and Bug
-  Please open a Issue in this: [[https://github.com/YuanPres/yuanconf/issues][YuanConf/issues]]. I'm sorry, I *DO NOT* accept any other way.
+  Please open a Issue in this: [[https://github.com/YuanPres/YuanConf/issues][YuanConf/issues]]. I'm sorry, I *DO NOT* accept any other way.
 
 *EOF*
