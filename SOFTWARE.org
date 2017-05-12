@@ -1,4 +1,11 @@
-* List of Software
+* Checklist
+
+- This is my frequently used software list.
+- Tested with =archlinux.=
+- This list is rolled up.
+- Please *DO NOT* copy and paste this text directly.
+- Please reprint this document *link*.
+
 * On Install
 
 #+BEGIN_SRC
