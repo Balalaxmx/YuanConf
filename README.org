@@ -2,9 +2,9 @@
 
 *This configuration is only designed for my environment:*
 #+BEGIN_SRC
-- Arch Linux x86_64
-- Awesome WM 4.0 or later
-- rxvt-unicode 9.2 or later
+Arch Linux x86_64
+Awesome WM 4.0 or later
+rxvt-unicode 9.2 or later
 #+END_SRC
 *If your OS and software environment is different, please select and customize files before use.*
 
