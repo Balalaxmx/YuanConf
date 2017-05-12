@@ -4,17 +4,18 @@
 + Arch Linux x86_64
 + Awesome WM 4.0 or later
 + URxvt 9.2 or later
-*If your OS and software environment is different, please select and customize files before use.*
+*If your OS and applications environment are different, please select and customize files before use.*
   
 The =mirrorlist= is a list of arch linux repository, but it's only useful in China.
   
 * Features
-
+  
 This is my Awesome wm and URxvt configuraton.
-
+  
 It used my Pink theme and Arch Linux wallpaper.
-Editor is emacs, web browser is firefox, others remain the default.
-
+Default editor is emacs, web browser is firefox.
+All other items are kept in default
+  
 And my GNU nano editor configuration is in [[https://github.com/YuanPres/nanorc.git][YuanPres/nanorc]], Welcome to use and correction.
 
 * Installation
