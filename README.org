@@ -1,11 +1,9 @@
 * WARRING
 
 *This configuration is only designed for my environment:*
-#+BEGIN_SRC
-  Arch Linux x86_64
-  Awesome WM 4.0 or later
-  rxvt-unicode 9.2 or later
-#+END_SRC
++ Arch Linux x86_64
++ Awesome WM 4.0 or later
++ URxvt 9.2 or later
 *If your OS and software environment is different, please select and customize files before use.*
 
 The =mirrorlist= is a list of arch linux repository, but it's only useful in China.
@@ -29,6 +27,8 @@ git clone https://github.com/YuanPres/YuanConf.git ~/yuan
 Then, copy files you need in =~/yuan= (like =cp ~/yuan/.Xresources ~/=).
 
 If you want to use my *all* configuration, run =cp ~/yuan/.* ~/= and =sudo cp ~/yuan/mirrorlist /etc/pacman.d= .
+
+Tips: The =~/= is HOME directory.
 
 * Usage
 
