@@ -1,4 +1,4 @@
-#+TITLE: My Common Apps list
+#+TITLE: My Frequently-used Apps list
 * Checklist
 
 - This is my frequently used software list.
