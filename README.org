@@ -4,7 +4,7 @@
 + archlinux x86_64
 + Awesome WM 4.0 or later
 + URxvt 9.2 or later
-*If your OS and/or software version is different, please test before use, and modify as needed.*
+*If your OS and/or Apps version is different, please test before use and modify if necessary.*
   
 The =mirrorlist= is a list of archlinux software repository, but it's only useful in China.
   
